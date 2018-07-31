@@ -1,5 +1,7 @@
 # ndk-so
 通过ndk jni .c 生成.soandroid可用的动态库
+1、https://blog.csdn.net/tianshuai4317618/article/details/79073836
+2、https://blog.csdn.net/leilifengxingmw/article/details/71598687
 
 平台：windows
 IDE :Android Studio
